@@ -1,1 +1,1 @@
-0-console.js
+1-stdin.js
