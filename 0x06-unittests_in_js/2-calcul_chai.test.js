@@ -1,10 +1,3 @@
-
-File metadata and controls
-
-Code
-
-Blame
-134 lines (103 loc) · 3.88 KB
 const { expect } = require('chai');
 const calculateNumber = require('./2-calcul_chai');
 
